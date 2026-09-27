@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[22016,["/lingotek/_next/static/chunks/0773gk3h4bm0d.js","/lingotek/_next/static/chunks/2fg1w5y7bfuj4.js"],""]
+3:I[97367,["/lingotek/_next/static/chunks/0773gk3h4bm0d.js","/lingotek/_next/static/chunks/2fg1w5y7bfuj4.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"className":"wrap flex flex-col items-start gap-6 py-28","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"className":"display text-5xl md:text-7xl","children":"We couldn’t find that page."}],["$","p",null,{"className":"max-w-xl text-lg text-muted","children":"It may have moved. Try the homepage or get in touch and we’ll point you the right way."}],["$","div",null,{"className":"flex flex-wrap gap-3","children":[["$","$L2",null,{"href":"/","className":"btn btn-primary","children":"Back to home"}],["$","$L2",null,{"href":"/contact","className":"btn btn-outline","children":"Contact us"}]]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"J0H_1U-Zcx-EI89v-XKZo"}
+5:null
